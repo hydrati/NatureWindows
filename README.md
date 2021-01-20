@@ -20,10 +20,6 @@
 
 **我们现在特别需要开发者帮助开发，因为这个项目的维护者 prideplayer 技术水平很差。**
 
-## 联系
+## 目录
 
-该项目由 PridePlayer 进行维护，你可以联系他：xubingqingsr@163.com。
-
-或者qq：3179793772。
-
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](code_of_conduct.md)
+[贡献者盟约](CODE_OF_CONDUCT.md)
