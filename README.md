@@ -48,6 +48,6 @@
 
 ## 如果需要，我可以在哪里获得更多的帮助？
 
-[贡献者盟约](CODE_OF_CONDUCT.md)
+[贡献者盟约](https://www.contributor-covenant.org/zh-cn/version/1/4/code-of-conduct/code_of_conduct.md)
 
 在我们的wiki里找到开发的细节！
