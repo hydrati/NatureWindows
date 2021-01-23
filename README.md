@@ -16,6 +16,12 @@
 
 ## 如何开始？
 
+> 了解开发详情，请到 [Wiki](https://github.com/PridePlayer/NatureWindows/wiki) 中查看。
+
+你可以在 Code 一栏中将代码下载到本地，或者在 GitHub 在线预览代码。
+
+自然窗口使用 Electron 技术进行开发，这是一个能够将 Web 内容转变为客户端的先进技术，十分好用顺手。在仔细研究自然窗口源码前，你必须在你的计算机上安装 Electron。
+
 ### 提交错误报告
 
 提交错误报告，请使用 issue，并且根据所提供的 issue 模板进行反馈。
